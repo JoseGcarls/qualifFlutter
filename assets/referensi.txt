@@ -1,0 +1,12 @@
+logo:
+https://www.technobezz.com/files/uploads/2021/02/steam-1.jpg
+dota2:
+https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota2_social.jpg
+csgo:
+https://zetizen.radarcirebon.com/wp-content/uploads/2020/09/csgo-breaks-record-for-highest-player-count-all-time.jpg
+valorant:
+https://asset.indosport.com/article/image/317911/valorant-169.jpg
+Outlast:
+https://static.wikia.nocookie.net/outlast/images/6/6d/Outlast_Bundle_of_Terror.png/revision/latest?cb=20181022132129
+deadByDaylight:
+http://cms.dailysocial.id/wp-content/uploads/2021/05/47af87b9a1f7ab5f30e4e04fede5d3ef_dbdresevil.jpg
